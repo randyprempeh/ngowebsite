@@ -1,0 +1,16 @@
+{
+  "name": "osf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deply": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hoepage": "https://randyprempeh.github.io/ngowebsite",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

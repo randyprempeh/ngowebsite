@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="Of.svg"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8">
+  <sodipodi:namedview
+     inkscape:current-layer="svg8"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="561.25984"
+     inkscape:cx="396.85039"
+     inkscape:zoom="0.61468855"
+     showgrid="false"
+     id="namedview224"
+     inkscape:window-height="1013"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3355">
+      <stop
+         style="stop-color:#225500;stop-opacity:1;"
+         offset="0"
+         id="stop3351" />
+      <stop
+         style="stop-color:#225500;stop-opacity:0;"
+         offset="1"
+         id="stop3353" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3347">
+      <stop
+         style="stop-color:#aaffb7;stop-opacity:1"
+         offset="0"
+         id="stop3343" />
+      <stop
+         style="stop-color:#aaffaa;stop-opacity:0;"
+         offset="1"
+         id="stop3345" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3185"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#190101;stop-opacity:1;"
+         offset="0"
+         id="stop3183" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1235"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#190101;stop-opacity:0.99787349;"
+         offset="0"
+         id="stop1231" />
+      <stop
+         style="stop-color:#000aff;stop-opacity:0;"
+         offset="1"
+         id="stop1233" />
+    </linearGradient>
+    <meshgradient
+       id="meshgradient3197"
+       gradientUnits="userSpaceOnUse"
+       x="96.141747"
+       y="118.99545"
+       gradientTransform="matrix(2.1478783,0,0,2.1478782,-81.822251,-140.01987)">
+      <meshrow
+         id="meshrow3199">
+        <meshpatch
+           id="meshpatch3201">
+          <stop
+             path="c 8.97977,0  17.9595,0  26.9393,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3203" />
+          <stop
+             path="c 0,12.4728  0,24.9456  0,37.4184"
+             style="stop-color:#190101;stop-opacity:1"
+             id="stop3205" />
+          <stop
+             path="c -8.97977,0  -17.9595,0  -26.9393,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3207" />
+          <stop
+             path="c 0,-12.4728  0,-24.9456  0,-37.4184"
+             style="stop-color:#190101;stop-opacity:1"
+             id="stop3209" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       xlink:href="#linearGradient3347"
+       id="linearGradient3349"
+       x1="24.021606"
+       y1="82.32251"
+       x2="81.266327"
+       y2="143.53178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.57761168,0,0,0.57761168,54.152572,76.888538)" />
+    <linearGradient
+       xlink:href="#linearGradient3355"
+       id="linearGradient3357"
+       x1="80.730431"
+       y1="143.81578"
+       x2="-71.814934"
+       y2="170.0799"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.57761168,0,0,0.57761168,54.152572,76.888538)" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3823">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3795" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3797" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3799" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3801" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3803" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3805" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3807" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3809" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3811" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3815">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3813" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3817" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3819" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3821" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3853">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3825" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3827" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3829" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3831" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3833" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3835" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3837" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3839" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3841" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3845">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3843" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3847" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3849" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3851" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3883">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3855" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3857" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3859" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3861" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3863" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3865" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3867" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3869" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3871" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3875">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3873" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3877" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3879" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3881" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3913">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3885" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3887" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3889" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3891" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3893" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3895" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3897" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3899" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3901" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3905">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3903" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3907" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3909" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3911" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3943">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3915" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3917" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3919" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3921" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3923" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3925" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3927" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3929" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3931" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3935">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3933" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3937" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3939" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3941" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter3973">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3945" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3947" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3949" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3951" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3953" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3955" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3957" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3959" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3961" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3965">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3963" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3967" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3969" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite3971" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter4003">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence3975" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix3977" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix3979" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix3981" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite3983" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence3985" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap3987" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend3989" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix3991" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting3995">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight3993" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite3997" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend3999" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite4001" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter4033">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence4005" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix4007" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix4009" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix4011" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite4013" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence4015" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap4017" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend4019" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix4021" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting4025">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight4023" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite4027" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend4029" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite4031" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter4063">
+      <feTurbulence
+         numOctaves="5"
+         baseFrequency="0.4"
+         id="feTurbulence4035" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-4 0 0 0 -4 0 -2 0 -2 0 0 0 -10 0 0 0 -2 0 -2 0 -4 0 0 0 -4 "
+         targetX="2"
+         targetY="2"
+         id="feConvolveMatrix4037" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 2 0 -5 0 2 0 2 "
+         targetX="1"
+         targetY="1"
+         id="feConvolveMatrix4039" />
+      <feColorMatrix
+         type="saturate"
+         result="result1"
+         id="feColorMatrix4041" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite4043" />
+      <feTurbulence
+         baseFrequency="0.1"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result8"
+         id="feTurbulence4045" />
+      <feDisplacementMap
+         scale="4"
+         in2="result8"
+         in="result2"
+         id="feDisplacementMap4047" />
+      <feBlend
+         in2="result1"
+         mode="normal"
+         result="result4"
+         id="feBlend4049" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         id="feColorMatrix4051" />
+      <feDiffuseLighting
+         surfaceScale="7"
+         diffuseConstant="1"
+         result="result3"
+         id="feDiffuseLighting4055">
+        <feDistantLight
+           azimuth="180"
+           elevation="37"
+           id="feDistantLight4053" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="1.5"
+         k3="0.5"
+         result="result5"
+         id="feComposite4057" />
+      <feBlend
+         in2="result3"
+         mode="normal"
+         result="result6"
+         id="feBlend4059" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result7"
+         id="feComposite4061" />
+    </filter>
+    <filter
+       height="1.5"
+       y="-0.25"
+       width="1.5"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4110">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result8"
+         id="feGaussianBlur4094" />
+      <feTurbulence
+         seed="25"
+         result="result7"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.03"
+         id="feTurbulence4096" />
+      <feComposite
+         in2="result8"
+         result="result6"
+         operator="in"
+         in="result8"
+         id="feComposite4098" />
+      <feDisplacementMap
+         in="result7"
+         in2="result6"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="120"
+         result="result4"
+         id="feDisplacementMap4100" />
+      <feComposite
+         in2="result4"
+         result="result2"
+         operator="arithmetic"
+         in="SourceGraphic"
+         k1="2"
+         k3="2.5"
+         k2="0.25"
+         id="feComposite4102" />
+      <feComposite
+         result="fbSourceGraphic"
+         in="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite4104" />
+      <feBlend
+         mode="screen"
+         in2="fbSourceGraphic"
+         result="result91"
+         id="feBlend4106" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend4108"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4112" />
+      <feMorphology
+         id="feMorphology4114"
+         result="result1"
+         radius="2.4"
+         operator="dilate"
+         in="fbSourceGraphic" />
+      <feTurbulence
+         id="feTurbulence4116"
+         baseFrequency="0.09 0.028"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix4118"
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+      <feDisplacementMap
+         in2="result2"
+         id="feDisplacementMap4120"
+         result="result4"
+         scale="10.319410319410318"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feFlood
+         id="feFlood4122"
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)" />
+      <feMorphology
+         id="feMorphology4124"
+         radius="3.8"
+         result="result7"
+         in="result4" />
+      <feGaussianBlur
+         id="feGaussianBlur4126"
+         result="result7"
+         in="result7"
+         stdDeviation="2.4" />
+      <feComposite
+         in2="result4"
+         id="feComposite4128"
+         result="result5"
+         in="result3"
+         operator="in" />
+      <feComposite
+         in2="result7"
+         id="feComposite4130"
+         operator="out" />
+      <feOffset
+         id="feOffset4132"
+         result="result6"
+         dy="-7"
+         dx="-4.5" />
+      <feGaussianBlur
+         id="feGaussianBlur4134"
+         result="result7"
+         stdDeviation="4.8" />
+      <feComposite
+         in2="result6"
+         id="feComposite4136"
+         in="fbSourceGraphic"
+         result="result92" />
+      <feComposite
+         in2="result7"
+         id="feComposite4138"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4140" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend4142"
+         result="result1"
+         mode="screen"
+         in="fbSourceGraphic" />
+      <feGaussianBlur
+         id="feGaussianBlur4144"
+         stdDeviation="2"
+         result="result6" />
+      <feComposite
+         in2="result1"
+         id="feComposite4146"
+         operator="xor"
+         in="result6"
+         result="result7" />
+      <feComposite
+         in2="result7"
+         id="feComposite4148"
+         result="result4"
+         in="result7"
+         operator="xor" />
+      <feGaussianBlur
+         id="feGaussianBlur4150"
+         result="result3"
+         stdDeviation="3"
+         in="result4" />
+      <feSpecularLighting
+         id="feSpecularLighting4152"
+         result="result5"
+         specularExponent="55"
+         specularConstant="1.5"
+         surfaceScale="6"
+         in="result3">
+        <fePointLight
+           id="fePointLight4154"
+           z="20000"
+           y="-8000"
+           x="-5000" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4156"
+         in="result3"
+         k3="1"
+         k2="1.5"
+         operator="arithmetic"
+         result="result92" />
+      <feComposite
+         in2="result92"
+         id="feComposite4158"
+         in="result5"
+         operator="atop"
+         result="result93" />
+      <feBlend
+         in2="result93"
+         id="feBlend4160"
+         mode="multiply"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4162" />
+      <feColorMatrix
+         id="feColorMatrix4164"
+         result="result2"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feSpecularLighting
+         id="feSpecularLighting4166"
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10">
+        <feDistantLight
+           id="feDistantLight4168"
+           elevation="20"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         id="feDiffuseLighting4170"
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         result="result94">
+        <feDistantLight
+           id="feDistantLight4172"
+           azimuth="225"
+           elevation="20" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result10"
+         id="feComposite4174"
+         result="result11"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4176"
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4178"
+         operator="in"
+         in="result9" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(4.3839896,0,0,4.4088918,-280.99623,-590.16944)"
+     id="layer1">
+    <g
+       id="g4080">
+      <path
+         d="m 92.728689,142.26078 a 19.651211,19.651211 0 0 0 -15.215482,19.14389 19.651211,19.651211 0 0 0 8.135022,15.9229 19.651211,19.651211 0 0 0 15.215481,-19.14389 19.651211,19.651211 0 0 0 -8.135021,-15.9229 z"
+         style="opacity:0.990705;fill:url(#linearGradient3357);fill-opacity:1;stroke:url(#linearGradient3349);stroke-width:0.458479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3823)"
+         id="path3309" />
+      <path
+         id="path3319"
+         d="m 92.728689,142.26078 -1.617409,13.42259 -5.463051,21.6442 v 0 0"
+         style="fill:#e5ffd5;stroke:none;stroke-width:0.152826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3853)" />
+      <path
+         id="path3321"
+         d="m 85.198932,145.81645 c 0.294151,0.35813 0.596436,0.70973 0.882455,1.07439 1.109002,1.41391 2.102754,2.88641 3.190198,4.31315 0.307042,0.40284 2.313893,2.48241 2.494029,2.8792 0.03054,0.0673 -0.157952,0.47927 -0.654335,1.60018"
+         style="fill:#aaffaa;stroke:none;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3883)" />
+      <path
+         id="path3323"
+         d="m 80.16803,151.5411 c 0.953777,1.12415 1.922602,2.2357 2.861335,3.37244 4.555409,5.51628 0.431946,0.54848 3.012264,3.90574 0.634034,0.82495 1.432313,1.58449 1.878686,2.54315 0.297125,0.63813 0.30352,1.1963 0.390727,1.86429 0.02985,0.22867 0.002,0.4801 0.0029,0.71234 3.05e-4,0.0709 0.0012,0.28343 9.24e-4,0.21257 -0.0023,-0.55126 -0.08083,-0.35329 0.619538,0.15638"
+         style="fill:#80ff80;stroke:none;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3913)" />
+      <path
+         id="path3327"
+         d="m 77.70446,158.66983 c 1.281224,0.71911 1.655326,0.75734 2.488646,1.58736 1.48823,1.48232 2.650028,3.26964 3.264733,5.29239 0.271225,0.89249 0.345681,1.89118 0.39936,2.81454 0.01226,0.21078 -0.09282,0.82172 0.0044,1.06881 0.411311,1.04527 1.198697,1.86493 1.676787,2.85903 0.529734,1.10148 -0.02064,1.05347 1.046922,1.32292"
+         style="fill:none;stroke:#aaffaa;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3943)" />
+      <path
+         id="path3329"
+         d="m 95.974952,145.21321 c -1.790198,0.87741 -2.709612,4.66986 -4.152496,4.56822"
+         style="fill:none;stroke:#aaffaa;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3973)" />
+      <path
+         id="path3337"
+         d="m 98.911282,149.64444 c -0.435843,0.33577 -0.871685,0.67153 -1.307528,1.00729 -0.210788,0.17093 -0.418797,0.34534 -0.632358,0.51279 -0.920124,0.72146 -3.299737,2.52296 -3.890704,2.69141 -0.314344,0.0896 -0.638747,0.60492 -0.875911,0.82643 -0.1895,0.17699 -2.039161,1.56023 -1.093502,1.00101"
+         style="fill:none;stroke:#80ff80;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4003)" />
+      <path
+         id="path3339"
+         d="m 100.78072,156.37978 c -1.15112,0.50875 -2.34405,1.01671 -3.401218,1.70294 -0.705351,0.45786 -1.322742,1.20452 -2.087768,1.54187 -0.680128,0.2999 -1.598091,0.18689 -2.107783,0.72794 -0.774734,0.82239 -2.325462,2.93967 -2.384161,3.10869 -0.211928,0.61024 -0.663463,1.04995 -0.94128,1.64606 -0.09378,0.20123 -0.128123,0.38375 -0.272414,0.55224 -0.02081,0.0243 -0.03986,0.12008 -0.02231,0.0933 0.03343,-0.0509 0.09036,-0.2196 0.09061,-0.15869 0.0016,0.39242 -1.0255,1.00155 -1.024562,1.22907 1.53e-4,0.0472 -0.04662,0.14183 6.35e-4,0.14163 0.891394,-0.003 0.202099,-1.77131 0.304024,-2.65686"
+         style="fill:none;stroke:#aaffaa;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4033)" />
+      <path
+         id="path3341"
+         d="m 95.136557,172.05042 c -3.456753,-0.60378 -4.808999,0.82195 -7.733075,2.13864 -0.753698,0.33939 -1.369094,0.96161 -2.144104,1.24381 -0.371902,0.13541 -0.806723,0.96059 -0.654505,0.82001 0.505489,-0.46685 0.04113,-0.25336 1.043355,1.07469"
+         style="fill:none;stroke:#aaffaa;stroke-width:0.152826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4063)" />
+    </g>
+    <rect
+       style="opacity:0.990705;fill:#ffffff;fill-opacity:0.997873;stroke:#ffffff;stroke-width:2.29506;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4069"
+       width="28.604649"
+       height="7.1846542"
+       x="73.763573"
+       y="156.37978"
+       ry="0.60818017" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:'Rachana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:0.997873;stroke-width:0.264583"
+       x="73.477386"
+       y="163.22408"
+       id="text4067"><tspan
+         id="tspan4065"
+         x="73.477386"
+         y="163.22408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Rachana;-inkscape-font-specification:'Rachana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:0.997873;stroke-width:0.264583">OLIVER</tspan></text>
+    <text
+       id="text4084"
+       y="163.22408"
+       x="73.477386"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:'Rachana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;fill-opacity:0.997873;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Rachana;-inkscape-font-specification:'Rachana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:0.997873;stroke-width:0.264583"
+         y="163.22408"
+         x="73.477386"
+         id="tspan4082">OLIVER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:P052;-inkscape-font-specification:'P052, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke-width:0.264583"
+       x="72.248726"
+       y="182.72083"
+       id="text4088"><tspan
+         id="tspan4086"
+         x="72.248726"
+         y="182.72083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:P052;-inkscape-font-specification:'P052, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583">FOUNDATION</tspan></text>
+    <text
+       id="text4092"
+       y="182.72083"
+       x="72.248726"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:P052;-inkscape-font-specification:'P052, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#000000;stroke-width:0.264583;filter:url(#filter4110)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:P052;-inkscape-font-specification:'P052, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         y="182.72083"
+         x="72.248726"
+         id="tspan4090">FOUNDATION</tspan></text>
+  </g>
+  <script
+     type="text/javascript"
+     id="mesh_polyfill">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>
