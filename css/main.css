@@ -1,0 +1,599 @@
+/* // Color Variables for OSF theme */
+
+:root {
+  --primary-color: #000;
+  --secondary-color: #3a5d29;
+  --overlay-color: rgba(0, 0, 0, 0.7);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Alata", sans-serif;
+  line-height: 1.3;
+}
+
+.catch-phrase {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+nav {
+  position: relative;
+  z-index: 2;
+  height: 120px;
+  transition: all 0.1s ease-out;
+}
+
+nav img {
+  width: 140px;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  margin-top: 10px;
+}
+
+.nav-menu {
+  position: absolute;
+  display: inline-block;
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
+}
+
+.nav-menu li {
+  display: inline;
+}
+
+.nav-menu li a {
+  padding: 20px;
+}
+
+nav a:hover {
+  color: #f1f1f1;
+}
+
+nav:hover {
+  background: #000;
+  transition: all 2s linear;
+  height: 140px;
+}
+
+
+/* typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1;
+}
+
+p {
+  line-height: 1.4;
+}
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  margin: 0.9rem 0;
+}
+
+img {
+  width: 100%;
+}
+
+.catchy-intro {
+  width: 100%;
+  height: 75vh;
+  position: relative;
+  z-index: 2;
+  background: url(../img/hope.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+}
+.catchy-intro h1 {
+  font-family: "Permanent Marker", cursive;
+  color: var(--secondary-color);
+  font-size: 55px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 0;
+  margin-right: 50px;
+  transform: translate(-50%, -50%);
+}
+
+.diva {
+  position: absolute;
+  bottom: 11%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 0.6rem;
+  transition: 0.7s ease all;
+}
+
+
+/* linked to an overlay pop up donation modal */
+.help-line {
+  font-size: 1.3rem;
+  border: 1px solid lightgrey;
+  padding: 0.4rem 1.6rem;
+  color: white;
+  transition: 0.2s ease all;
+  cursor: pointer;
+}
+
+.help-line:hover {
+  background: var(--secondary-color);
+  color: #fff;
+  border: none;
+}
+
+
+/* donate link, linkedto volunteer through href */
+.join:hover {
+  background: #fff;
+  color: var(--secondary-color);
+}
+
+/* overlay pop up, triggers when donate link is clicked*/
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--overlay-color);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  padding: 4rem;
+  background: #fff;
+  border-radius: 5px;
+  width: 50%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.5s ease-in-out;
+  height: 65vh;
+  text-align: center;
+}
+
+.donate-logo img {
+  width: 220px;
+}
+.popup h2 {
+  font-weight: lighter;
+  line-height: 1.4;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--secondary-color);
+}
+.popup .close:hover {
+  color: var(--primary-color);
+}
+
+span#oehp {
+  font-size: 1rem;
+  font-family: "Permanent Marker", cursive;
+  color: var(--secondary-color);
+  font-size: 1.3rem;
+}
+.popup .content {
+  max-height: 50%;
+  overflow: auto;
+}
+
+input {
+  width: 80%;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: 1px solid #bbb;
+  border-radius: 20px;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-color: paleturquoise;
+}
+
+input[type="submit"] {
+  padding: 15px 50px;
+  width: auto;
+  background: var(--secondary-color);
+  border: none;
+  color: white;
+  cursor: pointer;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+input[type="submit"]:hover {
+  background: #000;
+}
+
+input[type="submit"]:active {
+  opacity: 0.4;
+}
+
+.catchy-intro #hyper {
+  font-size: 8vw;
+  line-height: 2;
+  color: #f1f1f1;
+  letter-spacing: 2rem;
+}
+
+section.drive_post {
+  width: 100%;
+  color: var(--secondary-color);
+  padding: 2rem;
+  max-height: 500px;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+
+.intro-drive {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 3rem;
+}
+
+.info_gap {
+  width: 100%;
+}
+
+.info_gap .quotted {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#fried {
+  font-size: 0.7rem;
+  color: var(--primary-color);
+  margin-top: 0.4rem;
+  font-style: italic;
+}
+
+.sub_info {
+  font-size: 1.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+#percent {
+  font-size: 3vw;
+  color: red;
+}
+
+.content-text {
+  font-size: 1.4rem;
+  margin-top: 1rem;
+  color: gray;
+}
+
+#reason {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  font-size: 4rem;
+  padding: 3rem;
+  color: #a7a1a1;
+}
+
+#loc_reason {
+  color: #000;
+  font-size: 5rem;
+}
+
+section.drive_intent {
+  width: 100%;
+  color: var(--primary-color);
+  padding: 2rem;
+  max-height: 680px;
+  background: #fafdfa;
+}
+
+.sol_text {
+  font-family: "Permanent Marker", cursive;
+  font-size: 2.5rem;
+  color: var(--secondary-color);
+  padding: 1rem;
+  letter-spacing: 1vw;
+}
+
+.resolve {
+  width: 100%;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 0.4rem;
+}
+
+.ans_top {
+  padding: 1rem;
+}
+
+.ans_top h4 {
+  width: 50%;
+  font-size: 1.8rem;
+  margin-bottom: 0.9rem;
+}
+.ans_top h5 {
+  font-size: 1.2rem;
+  opacity: 0.4;
+}
+
+section.firm-info {
+  width: 100%;
+  height: 800px;
+  color: #f1f1f1;
+  background: url(../img/hope4.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  padding: 2rem;
+}
+
+.overlay-info {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 3rem;
+  height: 80%;
+}
+
+#text-state {
+  font-size: 2rem;
+  opacity: 0.6;
+  font-weight: lighter;
+  margin: 2rem 0;
+}
+.bgn-oliver {
+  width: 100%;
+  height: 800px;
+  padding: 2rem;
+}
+
+#obj-oliver {
+  padding: 1rem;
+}
+
+#of-intro {
+  text-transform: uppercase;
+  color: var(--secondary-color);
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+/* Gallery section design, with CSS Grid tweaks */
+.section-collage {
+  margin-bottom: 3rem;
+}
+.section-collage .gallery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.section-collage .gallery a:nth-child(5) {
+  grid-row: 1/3;
+  grid-column: 1/3;
+}
+
+.section-collage .gallery a:nth-child(6) {
+  grid-column-start: 4;
+  grid-column-end: 6;
+}
+
+.section-collage .gallery img,
+.section-collage .gallery a {
+  width: 100%;
+  height: 100%;
+}
+
+/* parallax with jquery  */
+#new_hope {
+  z-index: 2;
+  width: 80%;
+  margin: 100px auto;
+  position: relative;
+  font-family: "Permanent Marker", cursive;
+  font-size: 5rem;
+  letter-spacing: 1rem;
+  color: lightgreen;
+}
+
+/* footer */
+.footer {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 2rem;
+  background: #000;
+}
+
+.footer,
+.footer a {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+#footer-inq {
+  text-align: center;
+}
+
+footer .footer-cols {
+  width: 80%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.footer li {
+  line-height: 1.9;
+}
+
+.footer #coder {
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* fade css to aid jquery fading scroll effect, when the  class  (.fade) on every section you want tp fade*/
+.fade {
+  opacity: 1;  /* opacity to bring back the visibility */
+}
+
+
+/* jquery parallax css */
+.parallax {
+  min-height: 500px;
+  background: transparent;
+}
+
+
+/* media queries  just for a particular viewport on devices lesser than 700px*/
+@media (max-width: 700px) {
+  .catchy-intro {
+    height: 85vh;
+  }
+
+  #reason {
+    font-size: 2rem;
+    padding: 0.3rem;
+  }
+
+  /* a div with 2 links on  welcome homepage */
+  .diva {
+    font-size: 1.6rem;
+    left: 42%;
+  }
+
+  /* overlay for link, Modal */
+  .popup {
+    padding: 1rem 1.3rem;
+  }
+
+  .popup h2 {
+    font-size: 1rem;
+  }
+
+  section.drive_post {
+    background: #fff;
+    max-height: 700px;
+  }
+  .intro-drive {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .resolve {
+    grid-template-rows: 1fr;
+  }
+
+  .info_gap .quotted {
+    font-size: 12px;
+  }
+  .sub_info {
+    font-size: 0.6rem;
+  }
+  .content-text {
+    font-size: 0.7rem;
+    margin: 0 1rem;
+  }
+
+  section.drive_intent {
+    padding: 1.1rem;
+  }
+
+  .ans_top {
+    padding: 0.5rem;
+  }
+
+  .ans_top h4 {
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  .ans_top h5 {
+    font-size: 0.8rem;
+  }
+  section.firm-info {
+    height: 100%;
+  }
+
+  .overlay-info {
+    padding: 1rem 2rem;
+  }
+
+  #text-state {
+    font-size: 1.3rem;
+    margin: 0.7rem 0;
+  }
+
+  .focus_text {
+    font-size: 0.9rem;
+  }
+
+  .bgn-oliver {
+    height: 100%;
+  }
+
+  .sol_text {
+    text-align: center;
+  }
+
+   .section-collage .gallery {
+    grid-template-areas: 1fr;
+  }
+ 
+  #new_hope {
+    font-size: 3.5rem;
+  }
+  .footer,
+  .footer a {
+    font-size: 0.7rem;
+  }
+
+  .footer #coder {
+    font-size: 0.7rem;
+  }
+}
